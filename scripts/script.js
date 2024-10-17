@@ -12,16 +12,16 @@ new Vue({
         {
           name: "Zaroor 💔",
           artist: "Aparshakti Khurana, Savi Kahlon",
-          cover: "../img/1.jpg",
-          source: "../mp3/1.mp3",
+          cover: "img/1.jpg",
+          source: "mp3/1.mp3",
           url: "https://youtu.be",
           favorited: false
         },
         {
           name: "Soulmate ",
           artist: "Badshah, Arjit Singh",
-          cover: "../img/2.jpeg",
-          source: "../mp3/2.mp3",
+          cover: "img/2.jpeg",
+          source: "mp3/2.mp3",
           url: "https://youtu.be",
           favorited: true
         },
@@ -29,8 +29,8 @@ new Vue({
         {
           name: "Winning Speech",
           artist: "Karan Aujla",
-          cover: "../img/3.jpeg",
-          source: "../mp3/3.mp3",
+          cover: "img/3.jpeg",
+          source: "mp3/3.mp3",
           url: "https://www.youtube.com",
           favorited: false
         },
@@ -38,16 +38,16 @@ new Vue({
         {
           name: "Akhiyan",
           artist: "Harkirat Sangha",
-          cover: "../img/4.jpeg",
-          source: "../mp3/4.mp3",
+          cover: "img/4.jpeg",
+          source: "mp3/4.mp3",
           url: "https://www.youtube.com/",
           favorited: false
         },
         {
           name: "The Finest",
           artist: "Navan Sandhu",
-          cover: "../img/5.jpeg",
-          source: "../mp3/5.mp3",
+          cover: "img/5.jpeg",
+          source: "mp3/5.mp3",
           url: "https://www.youtube.com",
           favorited: true
         },
@@ -55,31 +55,31 @@ new Vue({
           name: "Millionaire",
           artist: "Honey Singh",
           cover: "img/6.jpeg",
-          source: "../mp3/6.mp3",
+          source: "mp3/6.mp3",
           url: "https://www.youtube.com",
           favorited: false
         },
         {
           name: "Andiote",
           artist: "Karan Aujla",
-          cover: "../img/7.jpeg",
-          source: "../mp3/7.mp3",
+          cover: "img/7.jpeg",
+          source: "mp3/7.mp3",
           url: "https://www.youtube.com",
           favorited: true
         },
         {
           name: "Mi armor",
           artist: "Sharn, 40k & The Paul",
-          cover: "../img/8.jpeg",
-          source: "../mp3/8.mp3",
+          cover: "img/8.jpeg",
+          source: "mp3/8.mp3",
           url: "https://www.youtube.com",
           favorited: false
         },
         {
           name: "410",
           artist: "Sidhu Mosewala, Sunny Malton",
-          cover: "../img/9.jpeg",
-          source: "../mp3/9.mp3",
+          cover: "img/9.jpeg",
+          source: "mp3/9.mp3",
           url: "https://www.youtube.com",
           favorited: false
         }
