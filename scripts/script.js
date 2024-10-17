@@ -14,7 +14,7 @@ new Vue({
           artist: "Aparshakti Khurana, Savi Kahlon",
           cover: "../img/1.jpg",
           source: "../mp3/1.mp3",
-          url: "https://youtu.be/JSDorYRTJjQ?si=vCmu6Bxg72qQutYO",
+          url: "https://youtu.be",
           favorited: false
         },
         {
@@ -22,7 +22,7 @@ new Vue({
           artist: "Badshah, Arjit Singh",
           cover: "../img/2.jpeg",
           source: "../mp3/2.mp3",
-          url: "https://youtu.be/9aOgTYO5UKs?si=N9GrJrZ9Ui5zbX-X",
+          url: "https://youtu.be",
           favorited: true
         },
 
@@ -31,7 +31,7 @@ new Vue({
           artist: "Karan Aujla",
           cover: "../img/3.jpeg",
           source: "../mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=dyRsYk0LyA8&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com",
           favorited: false
         },
 
@@ -40,7 +40,7 @@ new Vue({
           artist: "Harkirat Sangha",
           cover: "../img/4.jpeg",
           source: "../mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=9pdj4iJD08s&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com/",
           favorited: false
         },
         {
@@ -48,7 +48,7 @@ new Vue({
           artist: "Navan Sandhu",
           cover: "../img/5.jpeg",
           source: "../mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=Amq-qlqbjYA&ab_channel=BLACKPINK",
+          url: "https://www.youtube.com",
           favorited: true
         },
         {
@@ -56,7 +56,7 @@ new Vue({
           artist: "Honey Singh",
           cover: "img/6.jpeg",
           source: "../mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=XsX3ATc3FbA&ab_channel=HYBELABELS",
+          url: "https://www.youtube.com",
           favorited: false
         },
         {
@@ -64,7 +64,7 @@ new Vue({
           artist: "Karan Aujla",
           cover: "../img/7.jpeg",
           source: "../mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=gdZLi9oWNZg&ab_channel=HYBELABELS",
+          url: "https://www.youtube.com",
           favorited: true
         },
         {
@@ -72,7 +72,7 @@ new Vue({
           artist: "Sharn, 40k & The Paul",
           cover: "../img/8.jpeg",
           source: "../mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS",
+          url: "https://www.youtube.com",
           favorited: false
         },
         {
@@ -80,7 +80,7 @@ new Vue({
           artist: "Sidhu Mosewala, Sunny Malton",
           cover: "../img/9.jpeg",
           source: "../mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=WMweEpGlu_U&ab_channel=HYBELABELS",
+          url: "https://www.youtube.com",
           favorited: false
         }
       ],
