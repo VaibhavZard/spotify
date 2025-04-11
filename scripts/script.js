@@ -84,9 +84,9 @@ new Vue({
           favorited: false
         },
         {
-          name: "410",
-          artist: "Sidhu Mosewala, Sunny Malton",
-          cover: "img/9.jpeg",
+          name: "donali",
+          artist: "vaibhav",
+          cover: "img/4.jpeg",
           source: "mp3/9.mp3",
           url: "https://www.youtube.com",
           favorited: false
