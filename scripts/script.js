@@ -82,6 +82,14 @@ new Vue({
           source: "mp3/9.mp3",
           url: "https://www.youtube.com",
           favorited: false
+        },
+        {
+          name: "410",
+          artist: "Sidhu Mosewala, Sunny Malton",
+          cover: "img/9.jpeg",
+          source: "mp3/9.mp3",
+          url: "https://www.youtube.com",
+          favorited: false
         }
       ],
       currentTrack: null,
